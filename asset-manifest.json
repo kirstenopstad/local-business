@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/local-business/static/css/main.db54bd99.css",
+    "main.js": "/local-business/static/js/main.e7c371c6.js",
+    "static/js/787.6ef96f59.chunk.js": "/local-business/static/js/787.6ef96f59.chunk.js",
+    "static/media/french-roast.png": "/local-business/static/media/french-roast.0311df92c135be1b1ab4.png",
+    "static/media/founders.png": "/local-business/static/media/founders.d7506d6950910a7508c6.png",
+    "static/media/hundred-mile.png": "/local-business/static/media/hundred-mile.5af337cc955afc04ee23.png",
+    "static/media/hair-bender.png": "/local-business/static/media/hair-bender.8c8d34719e2694ff03d2.png",
+    "static/media/trapper-creek.png": "/local-business/static/media/trapper-creek.32b53ce15531d16bdeae.png",
+    "static/media/holler-mtn.png": "/local-business/static/media/holler-mtn.8948e245f43d7881525d.png",
+    "static/media/placeholder.png": "/local-business/static/media/placeholder.78a682d093226176fdb4.png",
+    "static/media/WindsorRegular.ttf": "/local-business/static/media/WindsorRegular.840c15634e5c3949742b.ttf",
+    "index.html": "/local-business/index.html",
+    "main.db54bd99.css.map": "/local-business/static/css/main.db54bd99.css.map",
+    "main.e7c371c6.js.map": "/local-business/static/js/main.e7c371c6.js.map",
+    "787.6ef96f59.chunk.js.map": "/local-business/static/js/787.6ef96f59.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db54bd99.css",
+    "static/js/main.e7c371c6.js"
+  ]
+}
